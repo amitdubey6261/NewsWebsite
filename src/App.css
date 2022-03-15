@@ -1,0 +1,10 @@
+.scrollHatao::-webkit-scrollbar{
+    display: none;
+}
+
+
+.foot{
+    background-color: rgb(245, 163, 218);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
